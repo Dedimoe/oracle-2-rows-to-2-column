@@ -51,4 +51,4 @@ APP_ID   COLOR   LOCATION
        1 Blue    USA   
 ```
 
-Copas from [this](https://asktom.oracle.com/pls/apex/f?p=100:11:0::::P11_QUESTION_ID:9538490400346215005).
+Copas from [here](https://asktom.oracle.com/pls/apex/f?p=100:11:0::::P11_QUESTION_ID:9538490400346215005).
